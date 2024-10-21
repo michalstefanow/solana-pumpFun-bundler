@@ -6,7 +6,7 @@ This open-source and free tool offers the most efficient self-bundling script fo
 
 Enjoy launches that are completely bubble maps-proof and anti-Photon SB marks.
 
-For more details, join our Discord at [discord.gg/solana-scripts](https://discord.gg/solana-scripts)
+For more details, contact here: telegram: [@shiny0103](https://t.me/shiny0103)
 
 
 
@@ -45,7 +45,7 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/cicero/pumpfun-bundler.git
+    git clone https://github.com/0xTan1319/pumpfun-bundler.git
     ```
 
 2. **Navigate to the Project Directory:**
