@@ -81,8 +81,3 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 3. **Profit:**
     Sit back and profit from your successful Pump.Fun launches!
 
-## Support and Contributions
-
-As an open-source project, we welcome contributions and feedback. If you have any questions or need assistance, please contact us on Telegram at @benorizz0.
-
-Enjoy seamless, efficient, and profitable launches with the Pump.Fun Launch Bundle Tool!
