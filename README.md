@@ -35,8 +35,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd PumpFun-bundler
+   git clone https://github.com/michalstefanow/solana-pumpFun-bundler.git
+   cd solana-pumpFun-bundler
    ```
 
 2. **Install dependencies**
