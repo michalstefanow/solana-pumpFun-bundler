@@ -161,7 +161,7 @@ PumpFun-bundler/
 ## 📞 Support & Contact
 
 For technical support, questions, or collaboration:
-- **Telegram**: [@mooneagle1_1](https://t.me/mooneagle1_1)
+- **Telegram**: [@mooneagle1_1](https://t.me/mylord1_1)
 - **Twitter**: [@michalstfanow](https://x.com/michalstefanow)
 
 ## 📄 License
