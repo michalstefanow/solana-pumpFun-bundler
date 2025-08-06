@@ -1,5 +1,5 @@
 {
-	"name": "PumpFun-Bundler",
+	"name": "solana-pumpFun-bundler",
 	"version": "1.0.0",
 	"description": "https://solana-scripts.com",
 	"main": "index.js",
